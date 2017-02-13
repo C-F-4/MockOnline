@@ -616,10 +616,6 @@ an absolute waiver of all civil liability in connection with the
 Program, unless a warranty or assumption of liability accompanies a
 copy of the Program in return for a fee.
 
-  18. Any Redistribution or Patent where my Code is being used 
- regardless of the above stated Terms and Conditions
- without my consent would make you liable for Full Damages.
-
                      END OF TERMS AND CONDITIONS
 
             How to Apply These Terms to Your New Programs
@@ -663,5 +659,3 @@ specific requirements.
 if any, to sign a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU AGPL, see
 <http://www.gnu.org/licenses/>.
-
-Source Code Author's Contact Information: abhinavsaxena67@gmail.com
